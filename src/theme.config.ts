@@ -1,12 +1,12 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "活版印字",
+  title: "最小化可复现",
   /** your name */
-  author: "Typography",
+  author: "Julyfun",
   /** website description */
   desc: "Rediscory the beauty of typography",
   /** your deployed domain */
-  website: "https://astro-theme-typography.vercel.app/",
+  website: "https://julyfun.vercel.app/",
   /** your locale */
   locale: "en-us",
   /** theme style */
@@ -15,20 +15,8 @@ export const THEME_CONFIG: App.Locals['config'] = {
   socials: [
     {
       name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/julyfun",
     },
-    {
-      name: "rss",
-      href: "/atom.xml",
-    },
-    {
-      name: "twitter",
-      href: "https://github.com/moeyua/astro-theme-typography",
-    },
-    {
-      name: "mastodon",
-      href: "https://github.com/moeyua/astro-theme-typography",
-    }
   ],
   /** your header info */
   header: {
@@ -36,7 +24,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   },
   /** your navigation links */
   navs: [
-    {
+   /** {
       name: "Posts",
       href: "/posts/page/1",
     },
@@ -51,7 +39,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
     {
       name: "About",
       href: "/about",
-    },
+    },**/
   ],
   /** your category name mapping, which the `path` will be shown in the url */
   category_map: [
