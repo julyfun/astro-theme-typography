@@ -1,5 +1,5 @@
 ---
-title: "vim 改变 newline 风格 (dos or unix)`"
+title: "vim 改变 newline 风格 (dos or unix)"
 description: "how-to"
 pubDate: "2024-7-28"
 categories: ["how-to", "vim", "unix", "dos", "newline"]
