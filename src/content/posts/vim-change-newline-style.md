@@ -12,7 +12,7 @@ ref: https://unix.stackexchange.com/questions/32001/what-is-m-and-how-do-i-get-r
 在 vim 中执行以下两行可以把 dos 类型的 CRLF 改为 unix LF:
 
 ```
-set ff=unix
+:set ff=unix
 :e ++ff=dos 
 ```
 
